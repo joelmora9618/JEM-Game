@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.awt.event.KeyListener"/>
+<fullyQualifiedTypeName name="com.sun.prism.Graphics"/>
+<fullyQualifiedTypeName name="java.awt.Graphics"/>
+<fullyQualifiedTypeName name="javax.swing.ImageIcon"/>
+<fullyQualifiedTypeName name="java.util.Random"/>
+<fullyQualifiedTypeName name="mapa.MapaGenerado"/>
+<fullyQualifiedTypeName name="javax.imageio.ImageIO"/>
+<fullyQualifiedTypeName name="mapa.cuadro.Cuadro"/>
+<fullyQualifiedTypeName name="mapa.MapaCargado"/>
+<fullyQualifiedTypeName name="entes.Ente"/>
+<fullyQualifiedTypeName name="mapa.Mapa"/>
+<fullyQualifiedTypeName name="control.Teclado"/>
+<fullyQualifiedTypeName name="graficos.Sprite"/>
+<fullyQualifiedTypeName name="entes.criaturas.Jugador"/>
+<fullyQualifiedTypeName name="graficos.Pantalla"/>
+<fullyQualifiedTypeName name="principal.sprites.Sprite"/>
+<fullyQualifiedTypeName name="java.awt.Rectangle"/>
+<fullyQualifiedTypeName name="principal.sprites.HojaSprites"/>
+<fullyQualifiedTypeName name="java.awt.image.BufferedImage"/>
+<fullyQualifiedTypeName name="java.io.InputStream"/>
+<fullyQualifiedTypeName name="java.io.BufferedReader"/>
+<fullyQualifiedTypeName name="java.io.InputStreamReader"/>
+<fullyQualifiedTypeName name="principal.herramientas.CargadorRecursos"/>
+<fullyQualifiedTypeName name="java.awt.Color"/>
+</qualifiedTypeNameHistroy>
